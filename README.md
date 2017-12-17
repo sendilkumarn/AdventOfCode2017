@@ -16,3 +16,7 @@ Solutions in JS (or) Kotlin (or) Python (or) Rust for Advent of Code 2017
 * [Day 11: Hex Ed](http://adventofcode.com/2017/day/11)
 * [Day 12: Digital Plumber](http://adventofcode.com/2017/day/12)
 * [Day 13: Packet Scanners](http://adventofcode.com/2017/day/13)
+* [Day 14: Disk Defragmentation](http://adventofcode.com/2017/day/14)
+* [Day 15: Dueling Generators](http://adventofcode.com/2017/day/15)
+* [Day 16: Permutation Promenade](http://adventofcode.com/2017/day/16)
+* [Day 17: Spinlock](http://adventofcode.com/2017/day/17)
