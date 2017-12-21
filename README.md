@@ -22,3 +22,5 @@ Solutions in JS (or) Kotlin (or) Python (or) Rust for Advent of Code 2017
 * [Day 17: Spinlock](http://adventofcode.com/2017/day/17)
 * [Day 18: Duet](http://adventofcode.com/2017/day/18)
 * [Day 19: A Series of Tubes](http://adventofcode.com/2017/day/19)
+* [Day 20: Particle Swarm](http://adventofcode.com/2017/day/20)
+* [Day 21: Fractal Art](http://adventofcode.com/2017/day/21)
