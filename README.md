@@ -24,3 +24,7 @@ Solutions in JS (or) Kotlin (or) Python (or) Rust for Advent of Code 2017
 * [Day 19: A Series of Tubes](http://adventofcode.com/2017/day/19)
 * [Day 20: Particle Swarm](http://adventofcode.com/2017/day/20)
 * [Day 21: Fractal Art](http://adventofcode.com/2017/day/21)
+* [Day 22: Sporifica Virus](http://adventofcode.com/2017/day/22)
+* [Day 23: Coprocessor Conflagration](http://adventofcode.com/2017/day/23)
+* [Day 24: Electromagnetic Moat](http://adventofcode.com/2017/day/24)
+* [Day 24: ???](http://adventofcode.com/2017/day/25)
