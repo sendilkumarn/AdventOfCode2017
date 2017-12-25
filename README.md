@@ -28,3 +28,5 @@ Solutions in JS (or) Kotlin (or) Python (or) Rust for Advent of Code 2017
 * [Day 23: Coprocessor Conflagration](http://adventofcode.com/2017/day/23)
 * [Day 24: Electromagnetic Moat](http://adventofcode.com/2017/day/24)
 * [Day 25: The Halting Problem](http://adventofcode.com/2017/day/25)
+
+![Scheme](.images/aoc2017-completed.png)
